@@ -3,6 +3,8 @@ my Simple Notes App To Store "Glocery List"
 
 # some of Screenshots!!
 <h3>Layout and Designs!</h3>
+Here's what it looks like:
+![Output sample](screenshots/sample.gif)
 
 <img src="screenshots/1.png"/>
 <br>
